@@ -1,6 +1,6 @@
 # 💻 Projeto de Automação de Testes E2E - E2EBurger
 
-Este repositório contém a automação de testes de ponta a ponta (E2E) para o sistema **E2EBurger**, utilizando a ferramenta [Cypress](https://www.cypress.io/), construído como parte do curso de Cypress na Fomação Agile Test Engineer da [E2E Treinamentos](https://e2etreinamentos.com.br/formacao-agile-test-engineer/).
+Este repositório contém a automação de testes de ponta a ponta (E2E) para o sistema **E2EBurger**, utilizando a ferramenta [Cypress](https://www.cypress.io/)
 
 ![Em Desenvolvimento](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow)
 
